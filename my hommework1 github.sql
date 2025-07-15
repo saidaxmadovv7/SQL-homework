@@ -1,6 +1,9 @@
 ---Homework
 --Easy
----1. 
+---1. Data means raw facts example:numbers,dates
+---- Database means structured collection of data 
+----- A relational database stores data in tables
+----- Tables means A relational database stores data in tables
 ---2. Server
 ---Database
 ---Schema
